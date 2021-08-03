@@ -1,0 +1,22 @@
+{
+  "name": "GXLib",
+  "version": "0.1.0",
+  "summary": "A short description of GXLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gxhx2006@foxmail.com/GXLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gxhx2006@foxmail.com": "gxhx"
+  },
+  "source": {
+    "git": "https://github.com/gxhx2006@foxmail.com/GXLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GXLib/Classes/**/*"
+}

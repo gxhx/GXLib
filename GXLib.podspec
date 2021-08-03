@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/gxhx2006@foxmail.com/GXLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'gxhx2006@foxmail.com' => 'gxhx2006@foxmail.com' }
+  s.author           = { 'gxhx2006@foxmail.com' => 'gxhx' }
   s.source           = { :git => 'https://github.com/gxhx2006@foxmail.com/GXLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

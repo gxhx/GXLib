@@ -1,0 +1,16 @@
+PODS:
+  - GXLib (0.1.0)
+
+DEPENDENCIES:
+  - GXLib (from `../`)
+
+EXTERNAL SOURCES:
+  GXLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GXLib: 36cd2e7a6fdeb4faf83071bf8e7e96f7e0a24e2f
+
+PODFILE CHECKSUM: 578ccded49968ff80fe2f9e5e7b24e6821e0db57
+
+COCOAPODS: 1.10.1

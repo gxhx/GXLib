@@ -1,0 +1,6 @@
+framework module GXLib {
+  umbrella header "GXLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
